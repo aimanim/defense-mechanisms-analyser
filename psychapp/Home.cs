@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace psychapp
 {
-    public partial class Form1 : Form
+    public partial class Home : Form
     {
-        public Form1()
+        public Home()
         {
             InitializeComponent();
         }
@@ -25,7 +25,7 @@ namespace psychapp
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form2 f2 = new Form2();
+            Intro f2 = new Intro();
             f2.ShowDialog();
             this.Close();
         }

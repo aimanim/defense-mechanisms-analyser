@@ -5,7 +5,6 @@ C:\Users\Hp\source\repos\psychapp\psychapp\bin\Debug\netcoreapp3.1\psychapp.runt
 C:\Users\Hp\source\repos\psychapp\psychapp\bin\Debug\netcoreapp3.1\psychapp.dll
 C:\Users\Hp\source\repos\psychapp\psychapp\bin\Debug\netcoreapp3.1\psychapp.pdb
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.csproj.AssemblyReference.cache
-C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.Form1.resources
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.Properties.Resources.resources
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.csproj.GenerateResource.cache
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.GeneratedMSBuildEditorConfig.editorconfig
@@ -15,4 +14,6 @@ C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.cspr
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.dll
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.pdb
 C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.genruntimeconfig.cache
-C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.Form2.resources
+C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.Home.resources
+C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.Intro.resources
+C:\Users\Hp\source\repos\psychapp\psychapp\obj\Debug\netcoreapp3.1\psychapp.questions.resources
