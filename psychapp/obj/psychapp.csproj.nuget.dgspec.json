@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\psychapp\\psychapp\\psychapp.csproj": {}
+    "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\psychapp\\psychapp\\psychapp.csproj": {
+    "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\psychapp\\psychapp\\psychapp.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj",
         "projectName": "psychapp",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\psychapp\\psychapp\\psychapp.csproj",
+        "projectPath": "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\psychapp\\psychapp\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

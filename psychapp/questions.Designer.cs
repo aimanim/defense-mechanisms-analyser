@@ -46,7 +46,7 @@ namespace psychapp
             this.box.Location = new System.Drawing.Point(134, 46);
             this.box.Name = "box";
             this.box.ReadOnly = true;
-            this.box.Size = new System.Drawing.Size(519, 389);
+            this.box.Size = new System.Drawing.Size(543, 393);
             this.box.TabIndex = 3;
             this.box.Text = "";
             // 
@@ -120,10 +120,10 @@ namespace psychapp
             this.question.BackColor = System.Drawing.Color.LightBlue;
             this.question.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.question.Font = new System.Drawing.Font("Tw Cen MT", 12.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.question.Location = new System.Drawing.Point(173, 91);
+            this.question.Location = new System.Drawing.Point(173, 82);
             this.question.Name = "question";
             this.question.ReadOnly = true;
-            this.question.Size = new System.Drawing.Size(435, 53);
+            this.question.Size = new System.Drawing.Size(451, 77);
             this.question.TabIndex = 9;
             this.question.Text = "";
             // 
@@ -132,7 +132,8 @@ namespace psychapp
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(800, 483);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(817, 483);
             this.Controls.Add(this.question);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.rb4);

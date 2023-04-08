@@ -54,6 +54,14 @@ namespace psychapp
                     else if (rb3.Checked) suppression++;
                     else if (rb4.Checked) displacement++;
                     count++;
+                    question6();
+                    break;
+                case 6:
+                    if (rb1.Checked) regression++;
+                    else if (rb2.Checked) denial++;
+                    else if (rb3.Checked) humor++;
+                    else if (rb4.Checked) displacement++;
+                    count++;
                     question5();
                     break;
             }
@@ -128,6 +136,17 @@ namespace psychapp
             question.Text = "5. You are a compulsive eater, and people tell you that it is bad for your health";
             string[] opt = { "You think everyone is jealous of your appetite", "You don’t think it will affect your health",
                 "You don’t want to talk about it", "You yell at the person who tells you not to eat"};
+            rb1.Text = opt[0];
+            rb2.Text = opt[1];
+            rb3.Text = opt[2];
+            rb4.Text = opt[3];
+        }
+        void question6()
+        {
+            rbs_false();
+            question.Text = "6. Ali won an award in school and has to give a speech but is anxious about speaking in public today.";
+            string[] opt = { "He sucks his thumb", "He doesn’t think he has stage fright", "He jokes about his anxiety",
+                 "He uses foul language to his peers"};
             rb1.Text = opt[0];
             rb2.Text = opt[1];
             rb3.Text = opt[2];

@@ -42,7 +42,7 @@ namespace psychapp
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.richTextBox1.Location = new System.Drawing.Point(134, 46);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(519, 389);
+            this.richTextBox1.Size = new System.Drawing.Size(543, 393);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
             // 
@@ -52,7 +52,7 @@ namespace psychapp
             this.label1.BackColor = System.Drawing.Color.LightBlue;
             this.label1.Font = new System.Drawing.Font("Century", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(163, 77);
+            this.label1.Location = new System.Drawing.Point(176, 77);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(450, 33);
             this.label1.TabIndex = 1;
@@ -63,9 +63,9 @@ namespace psychapp
             this.richTextBox2.BackColor = System.Drawing.Color.LightBlue;
             this.richTextBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.richTextBox2.Font = new System.Drawing.Font("Tw Cen MT", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.richTextBox2.Location = new System.Drawing.Point(163, 158);
+            this.richTextBox2.Location = new System.Drawing.Point(176, 158);
             this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(443, 185);
+            this.richTextBox2.Size = new System.Drawing.Size(450, 185);
             this.richTextBox2.TabIndex = 2;
             this.richTextBox2.Text = resources.GetString("richTextBox2.Text");
             this.richTextBox2.TextChanged += new System.EventHandler(this.richTextBox2_TextChanged);
@@ -75,7 +75,7 @@ namespace psychapp
             this.button1.BackColor = System.Drawing.Color.White;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(344, 349);
+            this.button1.Location = new System.Drawing.Point(354, 349);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 3;
@@ -88,7 +88,8 @@ namespace psychapp
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(800, 483);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(817, 483);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.richTextBox2);
             this.Controls.Add(this.label1);
