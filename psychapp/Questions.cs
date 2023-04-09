@@ -18,7 +18,7 @@ namespace psychapp
             if (rb1.Checked) check(keys[(i - 1) * 4]);
             if (rb2.Checked) check(keys[((i - 1) * 4) + 1]);
             if (rb3.Checked) check(keys[((i - 1) * 4) + 2]);
-            if (rb3.Checked) check(keys[((i - 1) * 4) + 3]);
+            if (rb4.Checked) check(keys[((i - 1) * 4) + 3]);
             rbs_false();
             if (i == 14)
             {
@@ -71,21 +71,21 @@ namespace psychapp
             rb3.Checked = false;
             rb4.Checked = false;
         }
-        string[] Questions = { "Your close family member dies.",
-                               "It is your birthday, and your friends have not acknowledged it.",
-                               "Your friend points out your lazy attitude.",
-                               "You had a breakup due to your temper.",
-                               "You are a compulsive eater, people tell you it is bad for your health.",
-                               "Ali won an award in school and has to give a speech but he is anxious about speaking in public.",
-                               "You make a mistake at work that costs the company money.",
-                               "You have a fear of spiders.",
-                               "Your mobile phone got snatched at gunpoint.",
-                               "You are rejected for a job after reaching late for the interview.",
-                               "Your code has been found 60% plagiarized because you copied it from a friend.",
-                               "You are scolded for speaking loudly.",
-                               "You are unhappy with your career although you opted for it.",
-                               "You are addicted to drugs.",
-                               "You start a fight with the person who called out your addiction."
+        string[] Questions = { "1. Your close family member dies.",
+                               "2. It is your birthday, and your friends have not acknowledged it.",
+                               "3. Your friend points out your lazy attitude.",
+                               "4. You had a breakup due to your temper.",
+                               "5. You are a compulsive eater, people tell you it is bad for your health.",
+                               "6. Ali won an award in school and has to give a speech but he is anxious about speaking in public.",
+                               "7. You make a mistake at work that costs the company money.",
+                               "8. You have a fear of spiders.",
+                               "9. Your mobile phone got snatched at gunpoint.",
+                               "10. You are rejected for a job after reaching late for the interview.",
+                               "11. Your code has been found 60% plagiarized because you copied it from a friend.",
+                               "12. You are scolded for speaking loudly.",
+                               "13. You are unhappy with your career although you opted for it.",
+                               "14. You are addicted to drugs.",
+                               "15. Your important document has been spoiled by a relative’s kid as it was lying on the dining table."
         };
         string[] answers = {  "You continue to set a place for them at the dinner table",
                               "You avoid thinking about it",
@@ -111,14 +111,14 @@ namespace psychapp
                               "He doesn’t think he has stage fright",
                               "He jokes about his anxiety",
                               "He uses foul language to his peers",
-                              "You accuse your coworker of distracting you or not doing their part.",
-                              "You feel like a failure and want to quit your job.",
-                              "You try to forget about the mistake and avoid thinking about it.",
-                              "You work twice as hard to try to make up for the mistake.",
-                              "You deny that you have a fear of spiders and insist that you can handle them.",
-                              "You avoid any situation that might involve spiders.",
-                              "You scream and run away when you see a spider.",
-                              "You channel your fear into learning more about spiders and studying their behavior.",
+                              "You accuse your coworker of distracting you or not doing their part",
+                              "You feel like a failure and want to quit your job",
+                              "You try to forget about the mistake and avoid thinking about it",
+                              "You work twice as hard to try to make up for the mistake",
+                              "You deny that you have a fear of spiders and insist that you can handle them",
+                              "You avoid any situation that might involve spiders",
+                              "You scream and run away when you see a spider",
+                              "You channel your fear into learning more about spiders and their behavior",
                               "You take your anger out on your friends",
                               "You whine about losing your data",
                               "You joke about it with friends ",
