@@ -20,6 +20,10 @@ namespace psychapp
             if (rb3.Checked) check(keys[((i - 1) * 4) + 2]);
             if (rb3.Checked) check(keys[((i - 1) * 4) + 3]);
             rbs_false();
+            if (i == 14)
+            {
+                button1.Text = "- Submit -";
+            }
             if (i == 15)
             {
 
@@ -72,7 +76,7 @@ namespace psychapp
                                "Your friend points out your lazy attitude.",
                                "You had a breakup due to your temper.",
                                "You are a compulsive eater, people tell you it is bad for your health.",
-                               "Ali won an award in school and now he has to give a speech but is anxious about speaking in public today.",
+                               "Ali won an award in school and has to give a speech but he is anxious about speaking in public.",
                                "You make a mistake at work that costs the company money.",
                                "You have a fear of spiders.",
                                "Your mobile phone got snatched at gunpoint.",
@@ -83,27 +87,27 @@ namespace psychapp
                                "You are addicted to drugs.",
                                "You start a fight with the person who called out your addiction."
         };
-        string[] answers = {  "You continue to set a place for them at the dinner table.",
-                              "You avoid thinking about it.",
-                              "You lock yourself in a room and cry.",
-                              "You engage yourself in some activity to cope with the grief.",
-                              "You joke about how no one wished you a Happy Birthday yet.",
-                              "Maybe they're just planning a birthday party for you.",
-                              "You snap at your parents/partner when they ask you how your day is going.",
-                              "You bake yourself a cake.",
-                              "Start crying or feel upset.",
-                              "Act like you don't know what they're talking about and deny the whole thing.",
-                              "Make an excuse for it.)",
-                              "laugh it off. ",
-                              "You partner never liked you because of your calm nature.",
+        string[] answers = {  "You continue to set a place for them at the dinner table",
+                              "You avoid thinking about it",
+                              "You lock yourself in a room and cry",
+                              "You engage yourself in some activity to cope with the grief",
+                              "You joke about how no one wished you a Happy Birthday yet",
+                              "You tell yourself that maybe they're just planning a surprise party",
+                              "You bake yourself a cake",
+                              "You snap at your parents when they ask you how your day is going",
+                              "Start crying or feel upset",
+                              "Act like you don't know what they're talking about and deny it",
+                              "Accuse them of being more lazy",
+                              "Laugh it off",
+                              "You think it was because your partner never liked you",
                               "You slam the door.",
-                              "She was crazy and stupid ",
-                              "You cry for her ",
-                              "Everyone is jealous of your appetite.",
+                              "You think your partner was crazy and had anger issues",
+                              "You cry yourself to sleep",
+                              "You think everyone is jealous of your appetite",
                               "You don’t think it will affect your health ",
-                              "You don’t want to talk about it ",
+                              "You don’t want to talk about it",
                               "You yell at the person who tells you not to eat",
-                              "He sucks his thumb ",
+                              "He sucks his thumb",
                               "He doesn’t think he has stage fright",
                               "He jokes about his anxiety",
                               "He uses foul language to his peers",
@@ -195,13 +199,12 @@ namespace psychapp
         string[] keys =
         {
             "D","S","R","Su",
-            "H","Ra","Di",
-            "Su","Re","D",
-            "Ra","H","Ra",
-            "Di","P","R","Ra",
-            "D","S","Di","R",
-            "D","H","Di","P",
-            "R","Re","Su",
+            "H","Ra","Su","Di",
+            "R","D","P","H",
+            "Ra","Di","P","R",
+            "Ra","D","S","Di",
+            "R","D","H","Di",
+            "P","R","S","Su",
             "D","S","R","Su",
             "Di","R","H","S",
             "Ra","S","Su","Di",

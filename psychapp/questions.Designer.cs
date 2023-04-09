@@ -37,7 +37,6 @@ namespace psychapp
             this.rb4 = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
             this.question = new System.Windows.Forms.RichTextBox();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // box
@@ -129,18 +128,6 @@ namespace psychapp
             this.question.TabIndex = 9;
             this.question.Text = "";
             // 
-            // richTextBox1
-            // 
-            this.richTextBox1.BackColor = System.Drawing.Color.LightBlue;
-            this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.richTextBox1.Font = new System.Drawing.Font("Tw Cen MT", 12.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.richTextBox1.Location = new System.Drawing.Point(468, 27);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.ReadOnly = true;
-            this.richTextBox1.Size = new System.Drawing.Size(291, 340);
-            this.richTextBox1.TabIndex = 10;
-            this.richTextBox1.Text = "";
-            // 
             // questions
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -148,7 +135,6 @@ namespace psychapp
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(817, 483);
-            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.question);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.rb4);
@@ -174,6 +160,5 @@ namespace psychapp
         private System.Windows.Forms.RadioButton rb4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.RichTextBox question;
-        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }

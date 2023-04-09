@@ -1,9 +1,3 @@
 is_global = true
-build_property.ApplicationManifest = 
-build_property.StartupObject = 
-build_property.ApplicationDefaultFont = 
-build_property.ApplicationHighDpiMode = 
-build_property.ApplicationUseCompatibleTextRendering = 
-build_property.ApplicationVisualStyles = 
 build_property.RootNamespace = psychapp
-build_property.ProjectDir = C:\Users\Dell\source\repos\defense-mechanisms-analyser\psychapp\
+build_property.ProjectDir = C:\Users\Hp\source\repos\psychapp\defense-mechanisms-analyser\psychapp\
