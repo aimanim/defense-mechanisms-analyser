@@ -36,3 +36,4 @@ C:\Users\Hp\source\repos\psychapp\defense-mechanisms-analyser\psychapp\obj\Debug
 C:\Users\Hp\source\repos\psychapp\defense-mechanisms-analyser\psychapp\obj\Debug\netcoreapp3.1\psychapp.dll
 C:\Users\Hp\source\repos\psychapp\defense-mechanisms-analyser\psychapp\obj\Debug\netcoreapp3.1\psychapp.pdb
 C:\Users\Hp\source\repos\psychapp\defense-mechanisms-analyser\psychapp\obj\Debug\netcoreapp3.1\psychapp.genruntimeconfig.cache
+C:\Users\Hp\source\repos\psychapp\defense-mechanisms-analyser\psychapp\obj\Debug\netcoreapp3.1\psychapp.Outro.resources

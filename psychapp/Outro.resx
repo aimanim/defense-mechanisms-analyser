@@ -1,0 +1,156 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>If you have the highest score for sublimation, it means you are emotionally mature and deal with your emotions in a healthy manner. Meanwhile, a higher score for denial, humor or regression would mean you are immature and try to avoid the problem. Suppression is also unhealthy as it limits your emotions and can have negative physical effects. High scores for displacement or projection means you are an aggressive person and your defence mechanism can hurt your relationships with other people.</value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAYGBgYGBgYHBwYJCgkKCQ0MCwsMDRQODw4PDhQfExYTExYT
+        HxshGxkbIRsxJiIiJjE4Ly0vOEQ9PURWUVZwcJb/2wBDAQYGBgYGBgYHBwYJCgkKCQ0MCwsMDRQODw4P
+        DhQfExYTExYTHxshGxkbIRsxJiIiJjE4Ly0vOEQ9PURWUVZwcJb/wgARCAHxAyADASEAAhEBAxEB/8QA
+        GwABAQEBAQEBAQAAAAAAAAAAAAECBgcFBAP/2gAIAQEAAAAA6cqilVWlW3VttutW6utXV1rVuta1q61q
+        61da1dXWrq3dt1bV1VUoB4uoKKqq0t1bbdN23V1rVutautXWtXWtXWrrWrq61bq7tt00ttLSgPGAFFWm
+        lW6ttt1q26utat1rVu7rWrq7urq71bq61brWrbpbbaLSgeMAKVVWqt1bbdXVt1daurrWtN3WtXV3dXWr
+        u261q6a3bbbbaoqhTxegpSqtWtW226urbq61dautW7utaurrWrq61dW7urda0urbatBSh4yClUpott01
+        WrdXV1dXV1dautXWtXWrrVutaurd3Vt1q2226KUArxopRRVqrbq223Vurq61bq61q3WtXWrrV1da1bq6
+        1dW3WrbbS1SgHjoChS1V1bbbbrTV1dat1d26utaurrWrq3WtXVutW3V1bbbSqoA8eAoUtmltttturq26
+        utW6u7q3WtXV1d3Vutatt3dW261atqqUUHjygFGpbbbWlurq26utW6t3dW61q6urrV1brV1brVumrdVV
+        0oUA8hAKFVbdLbV1q23V1q3V1q3V1q6utXWrbq7t1WtXVtttW20UKHkBSgpbVtW226turdaturrVurrV
+        1dXV1q23erbbq6tttppaoKDyQFFFVWlaW6turbrVt1q6t1dXWrdXWrq261dWrrVtttWqWgoeTgFFFqrb
+        bbpq261bdXV1bq6utW6t1q3VutW2226ttq1VFAPKgAotKrS6ttumtW6turq3V1daturq6tt1dXS226tq
+        2lUoB5WCgWiqttummrdXVtt1q3Vurq6turq6tturqtLbbatUpQDy4ApQqrbbbbbdXVturq6atutW6tur
+        q2226urbVq2rSigHmIFBRVW21pq26tumrq3Vtt1dXVtt1pq2222221atKUUDzQAUKVVaW6XV01bbdaat
+        turq3S6t1bbbbbbVtq1RVAp5sAKUUW2rbdW223VurbbdNXVtttt1bbbWrVq1VVQUDzoAKKKrTS2223TV
+        uq1bbbdW23TVattttaWrVUpQKHnoBQVSq1VtttXV01Wrbbbq222222221baq1VKKAOBAChSqttWtVdXS
+        2222226ttarS22rbVqqqlFAHCBQKKUqra00urVt0tttt0ttttaW2rVqqpSigDhwoFFKVarS6W6VbqtLb
+        pbba00aVbVqqqlCgBxYAKKUrS1bVtW222tLdLbVttVpVpVVVKAoDjwAoUpVqrVtW1dLbbWlq2rbVaUpS
+        i0UBQckFAUULS1VulVbaulrS1Vq2qq1ShVUAAOXAFAopaq1otW2rbVtVWirVVVUoUAoAc2ACgotFq2qq
+        21bVWqq0q1VFKAoUADnwAKKFKtVVVatqqtVS0VaFBQpQAB8IAUKKFLVKq1WiqtUUtKUBSgAUAfGCgFCg
+        pVKtUtVS0qyi0ClAAAAHywBQUKFKNClqlLSgpYWhYAUQAB84CgUUFFFKKtoLQUBVACFCAAH4igAoBVFF
+        KLSgoKAFEAAICAfnAUAUFCiy0FFUAAUIAICCAB/IFAKLCgKUVQFAAAQCBAQCAQFAAsKoAqgCgBACAQgg
+        IEAbBQCgIoKgVRFBFIBEAhBBCIAJ/cKAUAUAEoABAIECCQQSEBBB+sAoCgLAURFIAQQCIIRCERBIEB+8
+        AUAAUEBFEQEDKjIhIRCRCJAgH0goBQACACRSIEElJIIiEhIiJAIIfWAUAAWAgCQCQQZWRBEhJCRDKCIQ
+        H2RQAAABIBAiQQkQRCSGURIkgiIAfcAKAABAkQEIZEJIJCJEiMokREhBAffACigRAERBEESESISEiJIk
+        iSIkQREB0YAAoQQEQkWJCJCJIJIjKJIkiQkiIkCDpgUAACIghJAyIkRJCSEkiSJEkiRIkQQR1IAoACCI
+        iEkEhEiJITKIyZiSSIkkSQkQDqwFAACEkIhJBIiREkRlEkZiSRIkkSSJCAdahQKABISISGSJESIykSRI
+        kykZSRMozDKEA64KAKARERIRJESEZRlImSSSSJIykyjMSRBCHZACgARBJDKGYRIjKRlEyTMTKSRJJIzE
+        kiQIOzAqgAghEkMomSJESSMwzEZjMTKSMyJlJIkIgdqCgBSBIhMkkuZCSIkkkhmJJJIzIykyZkkiREA7
+        UKFABBIhmGUZhJESSSQzEmUykkkZkTMTKIyIHbBVAAIQkJkyiZJEiSSSJIyxZlmJlJJJJJJERAjuBQAp
+        ASERJGUTIykSSSRlJGLmMyJMspMpJGUQQdyAAoSFSIiSJImSMokkkjKSTKSSRlmRJlMyIkCI7oACgZFZ
+        QjMSRMkSRJJJGYkmUkkjMZkZjMiSIGR3QAFAkoyhGUklzkjKJJGYykkjMkkZjMjMjMiREIP/xAAaAQEB
+        AQEBAQEAAAAAAAAAAAAAAQUCBAMG/9oACAECEAAAAP04lkCEiIjlIkiOUkkRINoQgQkREcpEkRykkiJB
+        tEsQISIiSJEkRykkSEhtEsgIiIiOUiSJIkckhE2oIBERESRIkiOUSRIDWLAIRIRJEiSIkiSQgawAQiQi
+        SJEiRJEkQg1gAhEhIkSJEiRIkgRrACCJERIkSIkiJIhDWAEIiIiRIkRHKIkQNUAgiIiJIiRESJEgJqgI
+        ESERJESIiRESENUQBERCRIiQiOUJEDTABCRCRIiQiJEISGmAEJCIiRCRESIQI0gBCIREiISIhIggmkIs
+        BIQkREJCIkIENAAEQhIiIOSIREA94ARCEREISEQiED3iVAhCERCEhCEgI9ooQIIiIIREEQgPYAAhCIgh
+        EIIQI9gAIIRCCEQQQQPWQqAQhCBEIIICPUABAiECCIEBA9IAIIIQIEIEAPuAAQggICCAQPuABCBAIAhA
+        A+pUWAgQAgCAED6AAAgAgAEAOwABAAQABFgtAAAAIAAAFAAlEUEWUQqAoQAsAApCgAAEAAACyyygABRw
+        KipZQAWKAKigPmCgAUAoCgAr5WAApKoCgUBQPkAAAtCygoFUD4ABUoLQUClCgPOFAChSihRVAo8wAUCh
+        0FFFUUC+QUAoUOgopSlAryIFFCirQpRaUFDxgBSlKWiiqpRQPGABaKVaFUtKoKPCAKFWlWilOilCh4QA
+        UqqpaUqqqhRXgABRVqlVSrSqWgZ4BQpaqqWlWqotAzwAoW1VLVLaVS0sVnAApS2qWqqqqlpQzVEUKpaq
+        rS1VWlpQZpBSiqtVVpatVS1QMwAWiraqrS1aqnRRTLAFoqui1aWrVVaooywAtUXotVaq1aWqUMsAHRS2
+        rVWq6Kq1ShlgAtUtq1Vqui1VVQZZCgtUtq1Vqui0tpQZQKC1S2qtWq6VS2lBlBQHSltVatW1VOlKKyQo
+        Doq2qtWrVqnSlEf/xAAaAQEBAQEBAQEAAAAAAAAAAAAAAQIFBgQD/9oACAEDEAAAAPCAqlVbbbbbWrbb
+        bbVtKDgBSlVbbbbbV1bbba0tLKOAFUVatttttXVtttq20UOAFUVatttttXVttrS20WK4FSlKWrbbbbV1
+        bba0tqgOHJSiltW2221bq22rbVUDg1QKW1bbbba000ttW1QOGAUq1bbba0tttttWqFOGAUq2rbbbVttt
+        tW1RSXiAKKttW221bbbatqqKOIChVq22rbVtttqrVUDjABVq22rbVttaWqqgOOAKW1bbVtW2rbVVVA44
+        Ci1attW1batqqtAOTKAVatq1bVtqrVUqg5IAqqttWrVaVVtFKDlKShVW1Vq1VtVVUUWOagKFq1VtVVqq
+        qiik5wAVVqqtVVqlKooOcAKVaqrVK0UopQPgACqqqWqVaUUFB8QAKqlVVKtFAKD5CFiiqUtKKtCgAfLQ
+        AUUqlFUoAA/CACiiqKKKAAH4gAoKoUKAAA/MAAUoKCgAQGAAUKAoAABAEAKShQAAQEGoAAKAABAQBoAA
+        AABAQQCfqAIAABLAhAgP2QqAAIBARBBBH0ggAgICBIIQQPqIACECCEIQhEEfYACASCEIhERCA+0AQCDI
+        hEhESIIHQIBAhCIRJCJEQhB0agBEIQySIkSIiIgdMAQREIySJESRIiIHVAQIiIiRIyiSJEiEHXCFhCRE
+        iREkjKSJIhB2QIQRJERlIkkkiSJEQdoAJCRIkSSSJJJIykhB3ACERIkiSSSRllJJGUId4CCEkSSJJJJJ
+        JJJEyiEd8AQjKJlJJJJJJJMpJESHoQCIRmJJIzJJJMyMySJIHogEIkSSSSMySSZkjMkkkQejAESJJGYy
+        zJJMyZTLMkSEelAgSSJJMssySTMymZJJJEHpQBEiSSSSZkkmZMpmTMkiIenAQiSSSSSZZkmZmSSZkkkR
+        HqABEkiSZkkmZJmZkzJJMxJB6gAJGUkmZJlmTMmZMyZkkkhHqgCIkkkkzJJmTMzJmTMkkkiHqqBISSSM
+        yZkmZMzMmZmSZkiQerAJEjMjMmZJmTMzJmTMkzJEHqwBlEmYzJMyZkzMzMmZJmSSEesKQSJJmJnLMmZM
+        zMzJmSZkkhHrQQSJlJJnMkmZM5mZJmTMkkiHrQgSJJllmZkmZM5kzMyTMkkiHrQgSJlJJmZkmZMzMzJn
+        MkkkhX//xAAcEAEAAgMBAQEAAAAAAAAAAAARASAAEDBAUGD/2gAIAQEAAQIA88ZHGOMZGRkZGorGReMj
+        IyOUco8J7oyLxkZGRkUi0ai8ZGRuLRyj4sdI3GRuNRkZFIrGR1jIyMjUZGRWNx82LRuMjIyMjIyMjIyN
+        xWMjUc41Go1HmXzRwi0ajIyNRkZGRkZGRkajhGo4RkZGRSNxaPixuNRSLxqMjIyMjI1GRzjUbi0e9seu
+        NRSMjIyNRkcY1GRkbjrHzI1HWLRqNx0jIyMjUZGRWMj50WjwRqNRqMi0WjhHOPC6XYfJjItHjjwvlPNH
+        SMi0dotHJo0exU0eCNR2jccIrGR5HS46egGzR4Y9MZFY8jp049ip3i8ajI4RSMjUZG48L3XzHmjI6Rkd
+        o5Nmz3LHpjIyOUcI8S0VxVdqryPHFIyPBHw3S2VNHA9EWjhHGMjm48nbzDDDYXOsVisfAVbqq7XqHCO8
+        cY7x4Gjiqqq1XDuaO8ZG4rHgjIng448WrwAAAoGyheLRwjI5x4Hbi83GpgYAAGjANHGO0XjjHV2ulVXF
+        VVeQUNneLxuOMbjo2au3gq9C5Q8kWisdnTwaKqqq+EKFTnHKNxWNR1XFVVVVVVVwNlAAAMNHE6xaOjwe
+        yqrjUOBsNHhjhG48q1WiqqqqoAABQNBowNnnj1NlcaKr6TRhwNxSPE1WqqulXT1C5QKGj3um6rt00VVV
+        VaGi4WPJHdsq0bKrwVV0GAAaADAADico96tWqqqtwuVNlj2O2irtfWBUDoYYepxeCtFVVcVVVdAAAAAB
+        c0HhjyOm6rpcVVVV4AFgoHE2e56q+QAChYCofJdvRXSugAAAMCoFAoHncVaNV5KqqvQKgGgKgeGdvkdt
+        VV21eQdQCp8tXa1VdOgLAFg4BY2eZu2caKuKqr1ANAAcgD1rt4NXTRsABcLAHY+GtHStlVXCoABh5Q0V
+        n4StVXgfAKngfIuna3VXwgHUw8U92jxV4uPIA9k2nhPhXuqtQAA0AHI+a8mq6XmdSoB2n4zVuvcPCeyf
+        SunFfKYcSpSec+OfK+MC4B6ptPGfiABxDmcTJ8E8Z3PkarcOgYGFjzzqeU+lo7bh5TzT7JpN3400n0TW
+        dTefvT7Z1P4OfTPCeM5PKe4HwJpOT4p1PCfc/Ems+aeU9JpPzZ1NZ8U0nU8Z+5OppOT5p1OTSaT3nJ5f
+        /8QAHBAAAQMFAAAAAAAAAAAAAAAAAQAhsCBQYHCQ/9oACAEBAAM/ALI+SPE9HU5R4wFGgxRv/8QAIhEA
+        AQMEAgIDAAAAAAAAAAAAEQBAUAEhYHAQIDBRQYCB/9oACAECAQE/AMpr9JbaVEqFbZZ8/rn05tg/rc4a
+        fGiDD2mCj1O1SwMKcKCEVZW8IhwhMX5CCKKKPQtKQZiDEhzSAKKLAxBbjNraypnn46o3PB7HPKaJoxow
+        LGklSSpiP//EACARAAEDBQEBAQEAAAAAAAAAAAERMFAAECBAYIFwQSH/2gAIAQMBAT8A6kag1Q0NMdeI
+        8QI6UNiIFgwH16tJRKTQHxEcunPrS2Xskh0pItaXb/JL84dbL9L9r2KWlfT6GlJSMIwkSjxhUhEpBkks
+        nBHvfK8slI6cTmdJWvO4OZeS380joF3xhKTZO2mibm5sdBMk1DkbGCMWWC0czEG5hzGHItmHLZ1kfNi2
+        YQvHAwBxLJwNjvHEtGxubFkX/9k=
+</value>
+  </data>
+</root>
