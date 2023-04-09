@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj": {}
+    "C:\\Users\\Dell\\source\\repos\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj": {
+    "C:\\Users\\Dell\\source\\repos\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj",
         "projectName": "psychapp",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\psychapp\\defense-mechanisms-analyser\\psychapp\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\source\\repos\\defense-mechanisms-analyser\\psychapp\\psychapp.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\source\\repos\\defense-mechanisms-analyser\\psychapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

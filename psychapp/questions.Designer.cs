@@ -37,16 +37,17 @@ namespace psychapp
             this.rb4 = new System.Windows.Forms.RadioButton();
             this.button1 = new System.Windows.Forms.Button();
             this.question = new System.Windows.Forms.RichTextBox();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.SuspendLayout();
             // 
             // box
             // 
             this.box.BackColor = System.Drawing.Color.LightBlue;
             this.box.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.box.Location = new System.Drawing.Point(134, 46);
+            this.box.Location = new System.Drawing.Point(78, 46);
             this.box.Name = "box";
             this.box.ReadOnly = true;
-            this.box.Size = new System.Drawing.Size(543, 393);
+            this.box.Size = new System.Drawing.Size(681, 393);
             this.box.TabIndex = 3;
             this.box.Text = "";
             // 
@@ -107,13 +108,14 @@ namespace psychapp
             // 
             this.button1.BackColor = System.Drawing.Color.White;
             this.button1.Font = new System.Drawing.Font("Verdana", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.button1.Location = new System.Drawing.Point(514, 370);
+            this.button1.Location = new System.Drawing.Point(609, 373);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 8;
             this.button1.Text = "Next >>";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.button1_MouseClick);
             // 
             // question
             // 
@@ -127,6 +129,18 @@ namespace psychapp
             this.question.TabIndex = 9;
             this.question.Text = "";
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.BackColor = System.Drawing.Color.LightBlue;
+            this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.richTextBox1.Font = new System.Drawing.Font("Tw Cen MT", 12.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.richTextBox1.Location = new System.Drawing.Point(468, 27);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.ReadOnly = true;
+            this.richTextBox1.Size = new System.Drawing.Size(291, 340);
+            this.richTextBox1.TabIndex = 10;
+            this.richTextBox1.Text = "";
+            // 
             // questions
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -134,6 +148,7 @@ namespace psychapp
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(817, 483);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.question);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.rb4);
@@ -159,5 +174,6 @@ namespace psychapp
         private System.Windows.Forms.RadioButton rb4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.RichTextBox question;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }
